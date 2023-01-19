@@ -1,4 +1,4 @@
-# GPS_video_creator
+# GPS Video Creator
 Python program to pair a map with live GPS position according to the position of a camera used for the video. Works in a Jupyter Notebook using the Anaconda Distribution. Useful in particular for shallow underwater surveys from a kayak. The example given is for Mooloolaba.
 
 ![alt text](https://github.com/ShoretechCoastalMonitoring/GPS_Video_Creator/blob/main/GPS_video_snapshot.JPG)
